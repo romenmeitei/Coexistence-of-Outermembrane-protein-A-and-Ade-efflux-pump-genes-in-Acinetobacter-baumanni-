@@ -1,0 +1,1 @@
+# Coexistence-of-Outermembrane-protein-A-and-Ade-efflux-pump-genes-in-Acinetobacter-baumanni-
