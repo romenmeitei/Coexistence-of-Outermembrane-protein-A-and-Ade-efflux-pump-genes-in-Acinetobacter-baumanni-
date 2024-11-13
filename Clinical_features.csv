@@ -1,0 +1,7 @@
+﻿Strain ID,Sex of child,Term/ Preterm,Inborn/ Out born,Birth weight,Mode of delivery,Diagnosis at Admission,Sepsis,Ventilation,Outcome
+Ab0013,Male,Preterm,In born, LBW,CS,"Preterm with RDS, Hypothermia, Respiratory Distress, Grunting, Chest Retraction",Yes ,Yes,Discharged
+Ab0017,Male,Preterm,In born,VLBW,LUCS,"Preterm LBW, Congenital pneumonia, septicemia",Yes,No Data,Expired
+Ab0014,Male,Preterm,In born, ELBW,SVD,"Respiratory distress, RDS, Pneumonia, Septic shock",Yes,Yes,No Data
+Ab0015,Female,Preterm,In born,  ELBW,LUCS,"Preterm, low birth weight",Yes ,No Data,Discharged
+Ab0018,Male,Preterm,In born, LBW,CS,No Data,Yes ,No Data,No Data
+Ab0016,Male,Term,Out born, NBW,ND,"Pneumonia, TEF,septic shock",Yes,No Data,Expired
